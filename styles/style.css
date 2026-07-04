@@ -11,6 +11,7 @@ html {
 .page {
   display: flex;
   justify-content: center;
+  align-items: center;
   height: 100vh;
   margin: auto;
   color: #fff;
@@ -279,9 +280,6 @@ ol {
 
 .search-form__textfield:focus {
   outline: none;
-}
-
-.search-form__checkbox {
 }
 
 .search-form__pseudo-checkbox {
