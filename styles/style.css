@@ -98,7 +98,7 @@ ol {
   flex-direction: column;
   gap: 30px;
   max-height: 534px;
-  overflow: scroll;
+  overflow: auto;
   overflow-x: hidden;
 }
 
