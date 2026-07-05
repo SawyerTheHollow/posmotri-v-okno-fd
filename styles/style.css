@@ -150,8 +150,6 @@ ol {
 .search-form {
   display: grid;
   grid-template-columns: 225px 212px 194px;
-  grid-template-rows: 54px;
-  grid-row: 2;
   column-gap: 40px;
   align-self: flex-start;
 }
